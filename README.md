@@ -56,5 +56,7 @@ http://127.0.0.1:8000/
 O objetivo deste projeto é demonstrar as habilidades de desenvolvimento backend com Django, implementação de sistemas de conteúdo dinâmico, e as melhores práticas de organização de código para manutenção e escalabilidade. O sistema segue o padrão Model-Template-View (MTV) e pode ser facilmente expandido para incluir novas funcionalidades como comentários e categorias de posts.
 
 👨‍💻 Autor
+
 Desenvolvido por Henrique Lopes
+
 https://github.com/henriquelopescavalcante | https://www.linkedin.com/in/henriquelopescs/
